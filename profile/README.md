@@ -4,11 +4,13 @@
 
 ### Aqui estão todas entregas com datas separadas por matérias e com espaço para futuras alterações!
 <br> 
-### Giovanna Franco Gaudino Rodrigues - RM: 553701 
-### Isabela Barcellos - RM: 553746 
+Giovanna Franco Gaudino Rodrigues - RM: 553701 
+<br>
+Isabela Barcellos - RM: 553746 
 <br>
 Entregas: 01/12 
- ### Via: Teams 
+<br>
+Via: Teams 
 <br>
 
 <details open>
