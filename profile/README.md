@@ -1,4 +1,6 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F51DF7&random=false&width=435&lines=GLOBAL+SOLUTION+" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F51DF7&random=false&width=435&lines=ESBP+-+AGO+2023)](https://git.io/typing-svg)
 ### Aqui estão todas entregas com datas separadas por matérias e com espaço para futuras alterações!
 <br> 
 Giovanna Franco Gaudino Rodrigues - RM: 553701 
