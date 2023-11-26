@@ -1,12 +1,55 @@
-## Global Solution  👋
+## 
 
-<!--
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7862E&width=435&lines=Global+%2BSolution%2B)](https://git.io/typing-svg)
 
-**Here are some ideas to get you started:**
+### Aqui estão todas entregas com datas separadas por matérias e com espaço para futuras alterações!
+<br> 
+<h1> Giovanna Franco Gaudino Rodrigues - RM: 553701 </h1>
+<h1> Isabela Barcellos - RM: 553746 </h1>
+<br>
+<h1> Entregas: 01/12 </h1>
+<h1> Via: Teams </h1>
+ <br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<details>
+<summary> Computational Thinking With Python </summary>
+
+  
+
+</details>
+
+<details>
+<summary> Differentiated Problem Solving </summary>
+
+  
+
+</details>
+
+
+<details open>
+<summary> Edge Computing & Computer Systems </summary>
+    <ul>
+    <li>  </li>
+  </ul>
+</details>
+
+
+<details open>
+<summary> Front-End Design </summary>
+  <ul>
+    <li>   </li>
+  </ul>
+</details>
+
+
+<details>
+<summary> Software & Total Experience Design </summary>
+
+
+  
+</details>
+
+<details open>
+<summary> Storytelling e inspiração empreendedora  </summary>
+  <ul>
+    <li>    </li>
