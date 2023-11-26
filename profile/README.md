@@ -9,7 +9,7 @@
 <br>
 Entregas: 01/12 
  ### Via: Teams 
- <br>
+<br>
 
 <details open>
 <summary> Software & Total Experience Design </summary>
