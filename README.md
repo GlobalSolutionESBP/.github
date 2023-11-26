@@ -1,8 +1,9 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7862E&width=435&lines=Global+%2B+Solution%2B)](https://git.io/typing-svg)
 
 ### Aqui estão todas entregas com datas separadas por matérias e com espaço para futuras alterações!
-## Giovanna Franco Gaudino Rodrigues - RM: 553701
-## Isabela Barcellos - RM: 553746
+<br> 
+Giovanna Franco Gaudino Rodrigues - RM: 553701
+Isabela Barcellos - RM: 553746
 <br>
 <h1> Entregas: 01/12 </h1>
 <h1> Via: Teams </h1>
