@@ -1,9 +1,10 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F51DF7&random=false&width=435&lines=GLOBAL+SOLUTION" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F51DF7&random=false&width=435&lines=ESPB+-+AGO+2023" alt="Typing SVG" /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F51DF7&random=false&width=435&lines=GIOVANNA+FRANCO+G+RODRIGUES+RM553701)](https://git.io/typing-svg)
-<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F51DF7&random=false&width=435&lines=ISABELA+BARCELLOS+FREIRE+RM553746)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F51DF7&repeat=false&random=false&width=435&lines=ESPB+-+AGO+2023" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F51DF7&repeat=false&random=false&width=435&lines=GIOVANNA+FRANCO+G+RODRIGUES+RM553701+" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F51DF7&repeat=false&random=false&width=435&lines=ISABELA+BARCELLOS+FREIRE+RM553746" alt="Typing SVG" /></a>
 
 <br> 
 
