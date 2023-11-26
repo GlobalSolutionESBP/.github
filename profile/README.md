@@ -45,7 +45,7 @@ Entregas: 01/12
 <details>
 <summary> Software & Total Experience Design </summary>
 <ul>
-    <li> Entrega <a>  https://github.com/GlobalSolutionESBP/GS-Software-TotalExperience.git  </a> </li>
+    <li> <a src="https://github.com/GlobalSolutionESBP/GS-Software-TotalExperience.git">  Entrega Software e Total Experience </a> </li>
   </ul>
 
   
