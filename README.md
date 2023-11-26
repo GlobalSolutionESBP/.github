@@ -1,3 +1,4 @@
+/profile/README.md
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7862E&width=435&lines=Global+%2B+Solution%2B)](https://git.io/typing-svg)
 
 ### Aqui estão todas entregas com datas separadas por matérias e com espaço para futuras alterações!
