@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F51DF7&random=false&width=435&lines=GLOBAL+SOLUTION;ESBP+-+AGO+2023)](https://git.io/typing-svg)
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F51DF7&random=false&width=435&lines=GLOBAL+SOLUTION" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F51DF7&random=false&width=435&lines=ESPB+-+AGO+2023" alt="Typing SVG" /></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F51DF7&random=false&width=435&lines=GIOVANNA+FRANCO+G+RODRIGUES+RM553701)](https://git.io/typing-svg)
 <br>
