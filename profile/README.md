@@ -5,9 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F51DF7&repeat=false&random=false&width=435&lines=GIOVANNA+FRANCO+G+RODRIGUES+RM553701+" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F51DF7&repeat=false&random=false&width=435&lines=ISABELA+BARCELLOS+FREIRE+RM553746" alt="Typing SVG" /></a>
-
-<br> 
-
 <br>
 Entregas: 01/12 
 <br>
